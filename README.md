@@ -14,17 +14,17 @@
 
 ![screenshots](https://github.com/Mithesh14/Age-calculator/blob/main/images/image3.png)
 
-Here for the date 30/01/2002 it is showing the accurate age in years, months, days, hours, seconds and milliseconds.
+➡️ An example 
 ![screenshots](https://github.com/Mithesh14/Age-calculator/blob/main/images/image4.jpg)
 
-Another example with 14/06/2002
+➡️ Another example with 14/06/2002
 ![screenshots](https://github.com/Mithesh14/Age-calculator/blob/main/images/image5.jpg)
-
 
 ![screenshots](https://github.com/Mithesh14/Age-calculator/blob/main/images/image6.jpg)
 
 ![screenshots](https://github.com/Mithesh14/Age-calculator/blob/main/images/image7.jpg)
 
 ➡️ If someone wants to know the number of days remaining for a particular occasion or a year, the website will show the values in negative❗
+
 ![screenshots](https://github.com/Mithesh14/Age-calculator/blob/main/images/image8.jpg)
 
