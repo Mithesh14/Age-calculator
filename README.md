@@ -15,11 +15,8 @@
 
 ![screenshots](https://github.com/Mithesh14/Age-calculator/blob/main/images/image3.png)
 
+
 ➡️ An example
-
-![screenshots](https://github.com/Mithesh14/Age-calculator/blob/main/images/image4.jpg)
-
-➡️ Another example with 14/06/2002
 
 ![screenshots](https://github.com/Mithesh14/Age-calculator/blob/main/images/image5.jpg)
 
