@@ -3,7 +3,7 @@
 
 # Project deployed at
 
-<a href="https://mithesh14.github.io/Github-profile/">Age calculator</a>
+<a href="https://mithesh14.github.io/Age-calculator/">Age calculator</a>
 
 # Screenshots
 
